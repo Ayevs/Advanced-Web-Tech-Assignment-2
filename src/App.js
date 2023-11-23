@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { DataTable } from 'primereact/datatable'
 
 function App() {
   return (
