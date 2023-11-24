@@ -193,7 +193,7 @@ function App() {
         />
         <Button
           type="button"
-          label="Active Mentors"
+          label="Active Members"
           className="mb-3 md:mb-0"
           onClick={filterActiveMembers}
         />
