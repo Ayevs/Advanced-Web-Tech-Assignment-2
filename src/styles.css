@@ -4,3 +4,19 @@
     margin-right: 10%;
     margin-bottom: 2%;
 }
+h1 {
+    color:white;
+    z-index: 1;
+    position: relative;
+    font-size: 50px;
+}
+
+@media screen and (max-device-width: 480px) {
+    h1{
+        font-size: larger;
+    }
+    .mainDiv{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
